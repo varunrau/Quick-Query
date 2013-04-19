@@ -8,9 +8,11 @@ A simple OS X service to query Wolfram Alpha. When you right click on some text 
 Installation
 ============
 
-This works by creating a OS X service using Automator. To create a service, open Automator and choose service. Change the action to "Run Shell Script" and set "Pass input:" to "as arguments." Then simply copy the following line into the field.
+This works by creating a OS X service using Automator. To create a service, open Automator and choose service. Change the action to "Run Shell Script" and set "Pass input:" to "as arguments." Also, select "Output replaces selected text." Then simply copy the following line into the field.
 
     python /path/to/repo/wolfram.py "$*"
+
+You can save it as Wolfram Alpha or whatever you want.
 
 That's all you need for easy Wolfram Alpha queries!
 
