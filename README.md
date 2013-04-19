@@ -1,7 +1,7 @@
 Quick-Query
 ===========
 
-A simple OS X service to query Wolfram Alpha. When you right click on some text and hit 'Wolfram Alpha,' the text will be replaced with the output of a Wolfram Alpha query?
+A simple OS X service to query Wolfram Alpha. When you right click on some text and hit 'Wolfram Alpha,' the text will be replaced with the output of a Wolfram Alpha query.
 
 ![Example](https://raw.github.com/varunrau/Quick-Query/master/wolfram_screencap.png)
 
